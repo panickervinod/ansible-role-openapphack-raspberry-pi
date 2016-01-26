@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: openapphack
+  description: Configures a Raspberry Pi.
+  company: ""
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: Debian
+    versions:
+    - all
+  categories:
+    - system
